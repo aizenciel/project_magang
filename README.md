@@ -113,7 +113,7 @@ Configure your web server (Apache/Nginx) to point to the public directory.
 - Access the login page at `/login`
 - Default admin credentials (if using seeded data):
   - Email: admin@example.com
-  - Password: password
+  - Password: password123
 
 ### Managing Items
 1. Navigate to `Items` in the dashboard
